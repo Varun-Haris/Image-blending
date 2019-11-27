@@ -2,7 +2,7 @@
 Basic image blending on Python
 
 The Image blending can be done by selecting a region on the foreground image by dragging the mouse around while keeping it clicked. The 
-code is only for 3 sample image pairs, as given in the "images" folder
+code is only for 3 sample image pairs, as given in the links below
 
 https://user-images.githubusercontent.com/47725022/69701694-7bca3680-10bb-11ea-8c67-78eb882e2078.png
 
